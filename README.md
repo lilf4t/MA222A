@@ -1,2 +1,1 @@
-# MA222A
-Analys B
+# Analys B - MA222A
